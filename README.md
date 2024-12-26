@@ -1,2 +1,0 @@
-# campusconnect
-to upload files
